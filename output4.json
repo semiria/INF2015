@@ -1,0 +1,7 @@
+{
+  "complet": false,
+  "erreurs": [
+    "Plus de 7 heures ont été déclarées dans les heures transférées du cycle précédent.",
+    "Il manque 2 heures pour compléter le cycle."
+  ]
+}

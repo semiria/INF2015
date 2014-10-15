@@ -1,0 +1,8 @@
+{
+  "complet": false,
+  "erreurs": [
+    "Le minimum de 17 heures n'est pas atteint dans les catégories cours, atelier, séminaire, colloque, conférence, lecture dirigée.",
+    "La catégorie 'visite' n'est pas reconnue.",
+    "Il manque 2 heures pour compléter le cycle."
+  ]
+}
